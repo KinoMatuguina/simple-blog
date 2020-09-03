@@ -1,5 +1,4 @@
-# Simple Blog App
-
+# Simple Blog
 # How to run
 
 - clone this project
@@ -9,6 +8,6 @@
 
 ### Technology use
 #### React
-##### Hooks and ContextApi
+- Hooks and ContextApi
 #### Material Ui
 #### React Router
